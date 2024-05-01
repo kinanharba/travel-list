@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kinanharba/travel-list/static/css/main.708779c1.css",
+    "main.js": "/kinanharba/travel-list/static/js/main.f079b3ec.js",
+    "index.html": "/kinanharba/travel-list/index.html",
+    "main.708779c1.css.map": "/kinanharba/travel-list/static/css/main.708779c1.css.map",
+    "main.f079b3ec.js.map": "/kinanharba/travel-list/static/js/main.f079b3ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708779c1.css",
+    "static/js/main.f079b3ec.js"
+  ]
+}
